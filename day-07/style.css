@@ -1,0 +1,32 @@
+html{
+    font-size: 62.5%;
+}
+
+body {
+  align-items: center;
+  font-size: 1rem;
+}
+h1{
+    font-size: 5rem;
+}
+
+.parent{
+    font-size: 2rem;
+}
+
+
+.child-1{
+    color: red;
+    font-size: 1.5em;
+}
+.child-{
+    color: red;
+    font-size: .5rem;
+}
+
+button{
+    font-size: 5rem;
+    padding: 1rem;
+    border-radius:.2em;
+    cursor: pointer;
+}
